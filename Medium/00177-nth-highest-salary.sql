@@ -32,3 +32,9 @@ SET N = N-1;
 
   );
 END
+
+
+-- adobe- 2
+-- amazon- 3
+-- bloomberg- 3
+-- microsoft- 2
