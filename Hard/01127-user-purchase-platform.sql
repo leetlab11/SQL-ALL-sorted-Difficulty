@@ -1,7 +1,7 @@
 -- we want all combinations of date and platform, hence create left table
 -- right table- when number of rows for that date and user_id > 1, it means that user has used both platforms on that day, so keep platform = both, else platform
--- sum of amount grouped by user_id and date
--- final query- date and platform will be from left table, again SUM amount and count of users from right table
+-- sum of amount grouped by user_id and date- for that user and date
+-- final query- date and platform will be from left table, again SUM amount and count of users from right table- for that date specifically(all users are added up)
 -- group amount and count users by user_id and date
 
 with left_table as
