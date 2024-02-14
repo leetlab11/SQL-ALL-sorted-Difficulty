@@ -2,7 +2,7 @@
 <h1> Checkout my other repositories for more LeetCode Lists and problem solutions</h1>
 
 <h2>Easy: 76</h2>
-<h2>Medium: 56</h2>
+<h2>Medium: 57</h2>
 <h2>Hard: 14</h2>
-<h2>Total: 146</h2>
+<h2>Total: 147</h2>
 
