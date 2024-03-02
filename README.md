@@ -3,6 +3,6 @@
 
 <h2>Easy: 87</h2>
 <h2>Medium: 73</h2>
-<h2>Hard: 24</h2>
-<h2>Total: 184</h2>
+<h2>Hard: 25</h2>
+<h2>Total: 185</h2>
 
