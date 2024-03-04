@@ -4,5 +4,5 @@
 <h2>Easy: 88</h2>
 <h2>Medium: 77</h2>
 <h2>Hard: 26</h2>
-<h2>Total: 190</h2>
+<h2>Total: 191</h2>
 
